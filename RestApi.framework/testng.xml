@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite -- Syed Basha" parallel="tests" thread-count="6">
+	<test name="Iteration1">
+		<classes>
+			<class name="com.QA.Tests.GetOfferAPITest" />
+		</classes>
+	</test>
+
+	<test name="Iteration2">
+		<classes>
+			<class name="com.QA.Tests.GetOfferAPITest" />
+		</classes>
+	</test>
+	<test name="Iteration3">
+		<classes>
+			<class name="com.QA.Tests.GetOfferAPITest" />
+		</classes>
+	</test>
+	<test name="Iteration4">
+		<classes>
+			<class name="com.QA.Tests.GetOfferAPITest" />
+		</classes>
+	</test>
+	<test name="Iteration5">
+		<classes>
+			<class name="com.QA.Tests.GetOfferAPITest" />
+		</classes>
+	</test>
+	<test name="Iteration6">
+		<classes>
+			<class name="com.QA.Tests.GetOfferAPITest" />
+		</classes>
+	</test>
+</suite> 
+
+
