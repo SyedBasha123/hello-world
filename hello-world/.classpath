@@ -2,5 +2,27 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/extentreports-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/org.hamcrest.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChitracheduSyedBasha/Documents/GitHub/ppmd-qa/co-selenium2/Automation_2.0/lib/testng-6.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
